@@ -45,7 +45,7 @@
   margin-top: 1em;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
   .section-beast {
     height: auto;
     padding: 100px 0;

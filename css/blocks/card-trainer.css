@@ -67,7 +67,7 @@
 }
 
 @media screen and (max-width: 600px) {
-  .card-trainer-name {
+  .card-trainer {
     border-radius: 10px;
   }
 }
